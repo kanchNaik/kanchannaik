@@ -3,7 +3,7 @@
     "gh-pages": "^6.1.1",
     "react-scripts": "^5.0.1"
   },
-  "homepage": "https://github.com/kanchNaik/kanchannaik",
+  "homepage": "https://kanchnaik.github.io/kanchannaik/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

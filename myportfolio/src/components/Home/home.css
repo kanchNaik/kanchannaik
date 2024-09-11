@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(60deg, rgba(238, 236, 239, 0.6),rgba(245, 240, 250, 0.6));
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-text{
+    text-align: left;
+    max-width: 800px;
+}
+
+.hero-text h1{
+    font-size: 80px;
+    font-weight: 600;
+}
+
+.hero-text.text-container {
+    flex: 1;
+    padding-right: 30px; 
+  }
+  
+  .hero_txt_wrapper {
+    display: flex;
+    align-items: center;
+    font-family: 'Courier New', monospace; /* Use a monospace font for a typing effect */
+}
+
+.static_txt {
+    font-size: 30px;
+    font-weight: 400;
+    color: black;
+}
+
+.dynamic_txt {
+    font-size: 30px;
+    font-weight: 500;
+    color: red;
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow: hidden;    /* Hide the text until revealed */
+    border-right: 2px solid red; /* Create a cursor */
+    animation: typing 5s steps(20, end), blink 0.7s infinite step-end alternate;
+}
+
+@keyframes typing {
+    from { width: 0; }
+    to { width: 26ch; } /* Adjust this value based on the number of characters */
+}
+
+@keyframes blink {
+    from { border-right-color: red; }
+    to { border-right-color: transparent; }
+}
+
+

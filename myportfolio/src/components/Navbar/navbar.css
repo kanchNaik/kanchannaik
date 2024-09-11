@@ -11,6 +11,8 @@ nav
     align-items: center;
     justify-content: space-between;
     z-index: 10;
+    box-shadow: 6px 4px 10px rgba(0, 0, 0, 0.3), -4px -4px 8px rgba(255, 255, 255, 0.8);
+    padding: 10px;
 }
 
 nav ul li{
