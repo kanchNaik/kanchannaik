@@ -1,19 +1,19 @@
-import {Link} from 'react-router-dom';
 import React from 'react'
 import './navbar.css'
+import { Link } from 'react-scroll';
 
 
 const navbar = () => {
   return (
-    <nav className='container'>
+    <nav className=''>
         <div>
-          <h3>Data Analytics Student</h3>
+          <h3>Applied Data Science</h3>
           <h5>At San Jose State University</h5>
         </div>
         <ul>
-            <li><Link to="#home">Home</Link></li>
-            <li><Link to="#about">About</Link></li>
-            {/* <li><Link to="#education">Education</Link></li> */}
+            <li><Link to="home" smooth={true} duration={500}>Home</Link></li>
+            <li><Link to="about" smooth={true} duration={500}>About</Link></li>
+            <li><Link to="education" smooth={true} duration={500}>Education</Link></li>
             {/* <li><Link to="/skills">Skills</Link></li>
             <li><Link to="/experience">Experience</Link></li>
             <li><Link to="/project">Project</Link></li>

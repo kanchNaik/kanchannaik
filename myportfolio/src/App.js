@@ -1,4 +1,4 @@
-import {BrowserRouter, Routes, Route, useLocation} from 'react-router-dom'
+// import {BrowserRouter, Routes, Route, useLocation} from 'react-router-dom'
 
 import './App.css';
 import Navbar from './components/Navbar/navbar'
@@ -7,7 +7,7 @@ import Education from './components/Education/education'
 import About from './components/About/about'
 
 function App() {
-  const location = useLocation();
+  // const location = useLocation();
   return (
       <div className="App">
         
@@ -15,6 +15,7 @@ function App() {
           <main>  
             <Home/>
             <About/>
+            <Education/>
           </main>
         
       </div>

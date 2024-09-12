@@ -50,7 +50,7 @@
 
 @keyframes typing {
     from { width: 0; }
-    to { width: 26ch; } /* Adjust this value based on the number of characters */
+    to { width: 36ch; } /* Adjust this value based on the number of characters */
 }
 
 @keyframes blink {

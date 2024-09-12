@@ -41,9 +41,10 @@
     flex: 1;
 }
 
-.resume.btn{
+.resume.webbtn{
 margin-top: 3%;
 margin-right: 5%;
+cursor: pointer;
 }
 
 /* Image container */
@@ -59,10 +60,10 @@ margin-right: 5%;
     height: auto;
   }
 
-
-  .eleven h1 {
+  .about-title h1 {
     font-size:40px;text-align:center; line-height:1.5em; padding-bottom:45px; font-family:"Playfair Display", serif; text-transform:uppercase;letter-spacing: 2px; color:white;
   }
   
+
   
 

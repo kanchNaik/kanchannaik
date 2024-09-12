@@ -29,7 +29,7 @@ a{
   text-decoration: none;
   color: inherit;
   line-height: 1;
-  cursor: hand;
+  cursor: pointer;
 }
 
 .container{
@@ -37,7 +37,7 @@ a{
   padding-right: 10%;
 }
 
-.btn{
+.webbtn{
   background: #fff;
   color: #212121;
   padding: 14px 25px;
