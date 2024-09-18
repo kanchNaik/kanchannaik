@@ -5,6 +5,7 @@ import Navbar from './components/Navbar/navbar'
 import Home from './components/Home/home'
 import Education from './components/Education/education'
 import About from './components/About/about'
+import Contact from './components/Contact/contact'
 
 function App() {
   // const location = useLocation();
@@ -16,6 +17,7 @@ function App() {
             <Home/>
             <About/>
             <Education/>
+            <Contact/>
           </main>
         
       </div>
