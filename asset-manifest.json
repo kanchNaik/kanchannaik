@@ -1,17 +1,40 @@
 {
   "files": {
-    "main.css": "/kanchannaik/static/css/main.8a3bf081.css",
-    "main.js": "/kanchannaik/static/js/main.7be637c0.js",
+    "main.css": "/kanchannaik/static/css/main.bcec1555.css",
+    "main.js": "/kanchannaik/static/js/main.181be017.js",
     "static/js/453.83234151.chunk.js": "/kanchannaik/static/js/453.83234151.chunk.js",
     "static/media/profilepic.jpeg": "/kanchannaik/static/media/profilepic.0cef56e46301a14b2c2e.jpeg",
     "static/media/Kanchan_Naik_Resume.pdf": "/kanchannaik/static/media/Kanchan_Naik_Resume.8b3abd6e837a7b6b9444.pdf",
+    "static/media/sqlserver.png": "/kanchannaik/static/media/sqlserver.535cec836e4c0841f580.png",
+    "static/media/postgresql.svg": "/kanchannaik/static/media/postgresql.4d89da07f5b01320923e37a50ee3a5d3.svg",
+    "static/media/apachecassandra.svg": "/kanchannaik/static/media/apachecassandra.39f9ec1fdd8f1ee04ff1583b4c2ac0ef.svg",
+    "static/media/mysql.svg": "/kanchannaik/static/media/mysql.1957fab3610b78c02010dab864c2d6b8.svg",
+    "static/media/react.svg": "/kanchannaik/static/media/react.8e63d418a6421cc2662e234ac8af7313.svg",
+    "static/media/snowflake.svg": "/kanchannaik/static/media/snowflake.b3e92fa34430ff50dd298e446d0a36d6.svg",
+    "static/media/c--4.svg": "/kanchannaik/static/media/c--4.04d9d2bb18b9781567f7340691dcc686.svg",
+    "static/media/swagger.svg": "/kanchannaik/static/media/swagger.8df163d8bae8e60c638e8ad06402bb2f.svg",
+    "static/media/python.svg": "/kanchannaik/static/media/python.e146c98dc5517bd9c7e63d6f63a6a1df.svg",
+    "static/media/postman.svg": "/kanchannaik/static/media/postman.5ec7aaafe5c23b3976b18c4f16fa16bb.svg",
+    "static/media/wordpress.svg": "/kanchannaik/static/media/wordpress.7fbca2d791f8aa53416fdb319331d796.svg",
+    "static/media/javascript.svg": "/kanchannaik/static/media/javascript.5ee3c82fade3a5a9c98dc18702a4f717.svg",
+    "static/media/tableau.svg": "/kanchannaik/static/media/tableau.c946b256f5c1a0dcef05fc15bad237b1.svg",
+    "static/media/jupyter.svg": "/kanchannaik/static/media/jupyter.a8e6a97fabeefba6c545d5201f3881ef.svg",
+    "static/media/bootstrap.svg": "/kanchannaik/static/media/bootstrap.d866407afc375025b806f076d7362cb8.svg",
     "index.html": "/kanchannaik/index.html",
-    "main.8a3bf081.css.map": "/kanchannaik/static/css/main.8a3bf081.css.map",
-    "main.7be637c0.js.map": "/kanchannaik/static/js/main.7be637c0.js.map",
+    "static/media/neo4j.svg": "/kanchannaik/static/media/neo4j.a6a8976cb51c83c4ece5eff8996f0839.svg",
+    "static/media/redis.svg": "/kanchannaik/static/media/redis.e109a85802e30faf37f6d3c97c73aece.svg",
+    "static/media/git.svg": "/kanchannaik/static/media/git.8ecdc3c556e1278611a7cfbb49c857a2.svg",
+    "static/media/googlebigquery.svg": "/kanchannaik/static/media/googlebigquery.c8d526c74bc6ba28c7624b3a2b76b669.svg",
+    "static/media/mongodb.svg": "/kanchannaik/static/media/mongodb.d930c2c4198d1000c2fb8b7d3177a44c.svg",
+    "static/media/jirasoftware.svg": "/kanchannaik/static/media/jirasoftware.ad24e39066cb46920ec5a989e83092d0.svg",
+    "static/media/css3.svg": "/kanchannaik/static/media/css3.1323e04024709c8a25e60cd9db22db48.svg",
+    "static/media/html5.svg": "/kanchannaik/static/media/html5.8e6289ed1eb0b9f348a463db8fa3e38c.svg",
+    "main.bcec1555.css.map": "/kanchannaik/static/css/main.bcec1555.css.map",
+    "main.181be017.js.map": "/kanchannaik/static/js/main.181be017.js.map",
     "453.83234151.chunk.js.map": "/kanchannaik/static/js/453.83234151.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a3bf081.css",
-    "static/js/main.7be637c0.js"
+    "static/css/main.bcec1555.css",
+    "static/js/main.181be017.js"
   ]
 }
