@@ -14,10 +14,10 @@ const navbar = () => {
             <li><Link to="home" smooth={true} duration={500}>Home</Link></li>
             <li><Link to="about" smooth={true} duration={500}>About</Link></li>
             <li><Link to="education" smooth={true} duration={500}>Education</Link></li>
-            {/* <li><Link to="/skills">Skills</Link></li>
-            <li><Link to="/experience">Experience</Link></li>
-            <li><Link to="/project">Project</Link></li>*/
-            <li><button className='contactbtn webbtn'><Link to="contact" smooth={true} duration={500}>Contact Me</Link></button></li>}
+            <li><Link to="skills">Skills</Link></li>
+            {/*<li><Link to="/experience">Experience</Link></li>
+            <li><Link to="/project">Project</Link></li>*/}
+            <li><button className='contactbtn webbtn'><Link to="contact" smooth={true} duration={500}>Contact Me</Link></button></li>
         </ul>
     </nav>
   )

@@ -1,0 +1,66 @@
+/* skills.css */
+
+.skills {
+  /* padding: 20px; */
+  max-width: 1200px;
+  /* margin: 0 auto; */
+  width: auto;
+    min-height: 70vh;
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+    box-shadow:  0px -10px 15px rgba(0, 0, 0, 0.2),  /* Top shadow */
+    10px 0px 15px rgba(0, 0, 0, 0.3),  /* Right shadow */
+    0px 10px 15px rgba(0, 0, 0, 0.4),  /* Bottom shadow */
+    -10px 0px 15px rgba(0, 0, 0, 0.3); /* Left shadow */
+    perspective: 1000px;
+    display: block;
+    color: black;
+    padding: 2%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; /* Space between columns */
+}
+
+.skills-section {
+  flex: 1 1 45%; /* Allows two columns, adjusts to screen size */
+  min-width: 300px; /* Adjust based on your preference */
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.section-title{
+  font-size:40px;text-align:center; line-height:1.5em; padding-bottom:45px; font-family:"Playfair Display", serif; text-transform:uppercase;letter-spacing: 2px; color:white;;
+}
+
+.skills-section-title {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.skills-list {
+  display: flex;
+  flex-direction: row;
+  gap: 10px; /* Space between skills */
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.skill-logo {
+  width: 30px; /* Adjust this size as needed */
+  height: 30px; /* Keep this proportional */
+  object-fit: contain; /* Ensures the image doesn't get distorted */
+}

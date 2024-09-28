@@ -6,6 +6,7 @@ import Home from './components/Home/home'
 import Education from './components/Education/education'
 import About from './components/About/about'
 import Contact from './components/Contact/contact'
+import Skills from './components/Skills/skills'
 
 function App() {
   // const location = useLocation();
@@ -17,6 +18,7 @@ function App() {
             <Home/>
             <About/>
             <Education/>
+            <Skills/>
             <Contact/>
           </main>
         
