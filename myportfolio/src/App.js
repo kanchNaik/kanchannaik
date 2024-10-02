@@ -7,6 +7,7 @@ import Education from './components/Education/education'
 import About from './components/About/about'
 import Contact from './components/Contact/contact'
 import Skills from './components/Skills/skills'
+import ProjectList from './components/Projects/projectlist';
 
 function App() {
   // const location = useLocation();
@@ -20,6 +21,7 @@ function App() {
             <Education/>
             <Skills/>
             <Contact/>
+            <ProjectList/>
           </main>
         
       </div>

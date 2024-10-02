@@ -1,0 +1,59 @@
+.projectcontainer{
+    width: auto;
+    min-height: 70vh;
+    background-color: whitesmoke;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+    box-shadow:  0px -10px 15px rgba(0, 0, 0, 0.2),  /* Top shadow */
+    10px 0px 15px rgba(0, 0, 0, 0.3),  /* Right shadow */
+    0px 10px 15px rgba(0, 0, 0, 0.4),  /* Bottom shadow */
+    -10px 0px 15px rgba(0, 0, 0, 0.3); /* Left shadow */
+    perspective: 1000px;
+    display: block;
+    color: black;
+    padding: 2%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.section-title{
+    font-size:40px;text-align:center; line-height:1.5em; padding-bottom:45px; font-family:"Playfair Display", serif; text-transform:uppercase;letter-spacing: 2px; color:black;;
+  }
+  
+  .filter-nav {
+    display: flex;
+    gap: 10px; /* Space between buttons */
+    justify-content: center; /* Center the buttons */
+    padding: 10px;
+  }
+  
+  .filter-button {
+    background-color: black; /* Button color */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Padding for the button */
+    border: none; /* Remove border */
+    border-radius: 50px; /* Rounded ellipse shape */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s ease; /* Smooth transition for hover */
+    font-size: 16px; /* Font size */
+  }
+  
+  .filter-button:hover {
+    background-color: red; /* Darker shade on hover */
+  }
+  
+  .filter-button:focus {
+    outline: none; /* Remove focus outline */
+  }
+
+  .filter-button:active{
+    background-color: red;
+  }
+  
+  .project-section{
+    display: flex;
+    gap: 2%;
+}
