@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/kanchannaik/static/css/main.bcec1555.css",
-    "main.js": "/kanchannaik/static/js/main.181be017.js",
+    "main.css": "/kanchannaik/static/css/main.a08fc21f.css",
+    "main.js": "/kanchannaik/static/js/main.85ee6b0c.js",
     "static/js/453.83234151.chunk.js": "/kanchannaik/static/js/453.83234151.chunk.js",
+    "static/media/breastcancer.png": "/kanchannaik/static/media/breastcancer.3382f8e018776676a9c1.png",
     "static/media/profilepic.jpeg": "/kanchannaik/static/media/profilepic.0cef56e46301a14b2c2e.jpeg",
+    "static/media/evdashboard.png": "/kanchannaik/static/media/evdashboard.9c413e26e91230d5a9d4.png",
     "static/media/Kanchan_Naik_Resume.pdf": "/kanchannaik/static/media/Kanchan_Naik_Resume.8b3abd6e837a7b6b9444.pdf",
     "static/media/sqlserver.png": "/kanchannaik/static/media/sqlserver.535cec836e4c0841f580.png",
     "static/media/postgresql.svg": "/kanchannaik/static/media/postgresql.4d89da07f5b01320923e37a50ee3a5d3.svg",
@@ -29,12 +31,12 @@
     "static/media/jirasoftware.svg": "/kanchannaik/static/media/jirasoftware.ad24e39066cb46920ec5a989e83092d0.svg",
     "static/media/css3.svg": "/kanchannaik/static/media/css3.1323e04024709c8a25e60cd9db22db48.svg",
     "static/media/html5.svg": "/kanchannaik/static/media/html5.8e6289ed1eb0b9f348a463db8fa3e38c.svg",
-    "main.bcec1555.css.map": "/kanchannaik/static/css/main.bcec1555.css.map",
-    "main.181be017.js.map": "/kanchannaik/static/js/main.181be017.js.map",
+    "main.a08fc21f.css.map": "/kanchannaik/static/css/main.a08fc21f.css.map",
+    "main.85ee6b0c.js.map": "/kanchannaik/static/js/main.85ee6b0c.js.map",
     "453.83234151.chunk.js.map": "/kanchannaik/static/js/453.83234151.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcec1555.css",
-    "static/js/main.181be017.js"
+    "static/css/main.a08fc21f.css",
+    "static/js/main.85ee6b0c.js"
   ]
 }
