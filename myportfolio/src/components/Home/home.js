@@ -10,9 +10,9 @@ const home = () => {
               <h4>Hi, I am</h4><br/>
               <h1>Kanchan Naik</h1>
               <div className='hero_txt_wrapper'>
-                <span className='dynamic_txt'>Software Developer, Data Scientist And Data Analyst</span>
+                <span className='dynamic_txt'>Software Developer And Data Scientist</span>
               </div>
-              <p>Integrating software engineering and data analytics to create innovative, data-driven solutions.</p>
+              <p>Integrating software engineering and data science to create innovative, data-driven solutions.</p>
           </div>   
       </div>
     </section>

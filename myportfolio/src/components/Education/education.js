@@ -43,7 +43,7 @@ export const education = () => {
             <div className='education-section'>
              <CardComponent
               image={SJSULogo}
-              title="Master of Science, Data Analytics" 
+              title="Master of Science, Applied Data Science" 
               text="<span><h5 style ='color: red'>San Jose State University, California, USA </h5></span><p>3.8</p><p><b>Relevant Coursework:</b> Database systems for DA, Math methods for DA, Business Intelligence and Data visualization , Big Data and Technology, Machine Learning, Distributed Systems</p>" 
               link="#"
               cardStyle={customCardStyle}
